@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "19ecf57f90f54903",
+    "type": "split",
+    "children": [
+      {
+        "id": "feeeec348eee15a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f91b5f7ff6bff4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grafy/Macierze sąsiedztwa i incydencji.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a1a542179f76901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sieci Neuronowe/Wsteczna propagacja błędu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cdf3cfbf29426cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f87cdb1fd6f27c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4db59477881320b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c38ef92ecca29369",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "501857c3f7bde07c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c85aefb1801b0353",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ec2c17a14544fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed71173c76d48af5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sieci Neuronowe/Wsteczna propagacja błędu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "888ca723b771830d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sieci Neuronowe/Wsteczna propagacja błędu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1adf9ff4ce81c27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2186d5455a6167a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sieci Neuronowe/Wsteczna propagacja błędu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "9a1a542179f76901",
+  "lastOpenFiles": [
+    "Sieci Neuronowe/img/2.png",
+    "Sieci Neuronowe/Wsteczna propagacja błędu.md",
+    "Angular/2. Angular - Elementy aplikacji, Rozszerzenia VS Code.md",
+    "Sieci Neuronowe/img/3.png",
+    "Sieci Neuronowe/Pasted image 20240529130415.png",
+    "Sieci Neuronowe/Pasted image 20240529130248.png",
+    "grafy/Macierze sąsiedztwa i incydencji.md",
+    "inne/prezentacje/Erlang - Event Handlery i Bazy Danych - na brudno.md",
+    "Angular/1. Angular - Wprowadzenie.md",
+    "Pasted image 20240529130415.png",
+    "Pasted image 20240529130248.png",
+    "Sieci Neuronowe/img",
+    "Sieci Neuronowe",
+    "Neo4j/Untitled",
+    "Sieci Neuronowe/img/1.png",
+    "Angular/images",
+    "Angular/images/Pasted image 20240524184252.png",
+    "quartz/quartz.layout.ts",
+    "quartz/package.json",
+    "quartz/README.md",
+    "quartz/LICENSE.txt",
+    "quartz/Dockerfile",
+    "quartz/CODE_OF_CONDUCT.md",
+    "quartz/public/Macierze-sąsiedztwa-i-incydencji.html",
+    "quartz/content/Macierze sąsiedztwa i incydencji.md",
+    "quartz/public/grafy/photos/Pasted-image-20240524140505.png",
+    "quartz/public/grafy/photos/Pasted-image-20240524134923.png",
+    "quartz/public/grafy/photos",
+    "quartz/content/grafy/Zbiór Skróconych Definicji.md",
+    "quartz/content/grafy/Wprowadzenie - Rodzaje grafów I.md",
+    "quartz/content/grafy/Macierze sąsiedztwa i incydencji.md",
+    "quartz/content/index.md",
+    "quartz/node_modules/supports-preserve-symlinks-flag/README.md",
+    "quartz/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "quartz/node_modules/micromark-extension-gfm/readme.md",
+    "quartz/node_modules/lightningcss-win32-x64-msvc/README.md",
+    "quartz/node_modules/longest-streak/readme.md",
+    "quartz/node_modules/is-glob/README.md",
+    "quartz/node_modules/mathjax-full/README.md",
+    "quartz/node_modules/mathjax-full/CONTRIBUTING.md",
+    "quartz/node_modules/speech-rule-engine/README.md",
+    "quartz/node_modules/css-tree/README.md",
+    "quartz/node_modules/speech-rule-engine/lib/README.md",
+    "quartz/node_modules/tsx/node_modules/@esbuild/win32-x64/README.md",
+    "quartz/node_modules/@esbuild/win32-x64/README.md"
+  ]
+}
